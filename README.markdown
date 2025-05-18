@@ -11,7 +11,6 @@ This project is a comprehensive analysis of an e-commerce sales dataset. The aim
 
 ## 📁 Project Structure
 - `Capstone_Project_E_commerce_Analytics_Module.ipynb` — Jupyter Notebook with all code steps.
-- `images/` — Folder containing saved visualization outputs.
 - `README.md` — Project documentation (you’re reading it!).
 
 ### 🧹 Task 1: Data Cleaning
